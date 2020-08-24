@@ -62,5 +62,13 @@
     "logo": "./logos/wallet-math.png",
     "universalLink": "https://www.mathwallet.org",
     "deepLink": "mathwallet:"
+  },
+  {
+    "name": "TokenPocket",
+    "shortName": "TokenPocket",
+    "color": "rgb(41, 128, 254)",
+    "logo": "./logos/wallet-tokenpocket.png",
+    "universalLink": "",
+    "deepLink": "tpoutside:"
   }
 ]
